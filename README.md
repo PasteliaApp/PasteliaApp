@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PasteliaApp
+- 👀 I’m interested in negativity free social media
+- 🌱 I’m currently learning kotlin, application, and web dev
+- 💞️ I’m looking to collaborate on iOS development
+- 📫 Reach me at pasteliahelp@gmail.com
